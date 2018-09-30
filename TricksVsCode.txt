@@ -1,0 +1,10 @@
+1)To change the integrated terminal on Windows, you just need to change the terminal.integrated.shell.windows line:
+Open VS User Settings (Preferences > User Settings). This will open two side-by-side documents.
+"terminal.integrated.shell.windows": "C:\Windows\system32\cmd.exe" 
+or
+"terminal.integrated.shell.windows": "C:\Program Files\Git\bin\bash.exe" 
+OR 
+"terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+
+2)npm-windows-upgrade
+https://github.com/felixrieseberg/npm-windows-upgrade

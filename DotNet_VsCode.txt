@@ -1,0 +1,20 @@
+DotNet New
+1)	Creating Projetcs like mvc,webapp, razorapp, webapi, console app and more
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore21
+
+*) dotnet tool install
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-install
+
+*)dotnet tool list
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-list
+
+2)ASP.NET core VS Code Extension Pack(Useful Extensions)
+https://marketplace.visualstudio.com/items?itemName=temilaj.asp-net-core-vs-code-extension-pack
+
+3)Extension-
+https://github.com/viatsko/awesome-vscode
+
+4)Adding project reference to  Project:
+https://www.humankode.com/visual-studio-code/how-to-add-multiple-projects-in-visual-studio-code
+
+
