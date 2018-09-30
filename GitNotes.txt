@@ -1,8 +1,5 @@
-use the nano editor by default
-use the vim(the ubiquitious text editor) as git's default editor
-use notepad++ as git's default editor
+Git Installation and basics config:
 use visual studio code as git's default editor
-use visual studio code insider as git's default editor
 
 installing Git on Windows: helpful link
 https://www.sitereq.com/post/easiest-way-to-install-git-bash-commands-on-windows
@@ -11,7 +8,7 @@ Release Notes:
 file:///C:/Program%20Files/Git/ReleaseNotes.html
 
 Configure Git for first time use:
-Make sure your Git bash command prompt is open.
+1)Make sure your Git bash command prompt is open.
 Apply the following command to configure your name:
 	git config --global user.name "Your Name"
 Then apply the next command to configure your email:
